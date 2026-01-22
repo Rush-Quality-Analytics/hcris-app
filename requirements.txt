@@ -1,5 +1,5 @@
 pathlib==1.0.1
-statsmodels==0.13.1
+statsmodels==0.14.4
 werkzeug==3.0.6
 dash==3.0.1
 gunicorn==23.0.0
